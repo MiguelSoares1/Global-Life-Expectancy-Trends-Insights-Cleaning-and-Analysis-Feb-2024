@@ -16,3 +16,6 @@ developed).
 3. Explore correlations between GDP, BMI, and life expectancy.
 4. Handle data quality issues such as duplicates and missing values to ensure robust
 analysis.
+
+
+![World life expec](https://github.com/user-attachments/assets/0acee083-469e-4a1f-9a9b-9daaab376d23)
