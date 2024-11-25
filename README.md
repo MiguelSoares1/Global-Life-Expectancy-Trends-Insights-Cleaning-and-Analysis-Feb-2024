@@ -1,4 +1,4 @@
-# Global Life Expectancy Trends: Insights, Cleaning, and Analysis
+Project World Life Expectancy-MYSQL
 
 # Table of Contents
 1. [Project Background](#project-background)
