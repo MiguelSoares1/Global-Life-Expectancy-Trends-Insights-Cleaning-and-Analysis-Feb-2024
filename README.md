@@ -1,5 +1,3 @@
-Project World Life Expectancy-MYSQL
-
 # Table of Contents
 1. [Project Background](#project-background)
 2. [Executive Summary](#executive-summary)
