@@ -1,6 +1,6 @@
 # Table of Contents
 1. [Project Background](#project-background)
-2. Executive Summary
+2. [Executive Summary](#executive-summary)
 3. Challenges and Solutions
 4. Recommendations
 
@@ -16,6 +16,16 @@ developed).
 3. Explore correlations between GDP, BMI, and life expectancy.
 4. Handle data quality issues such as duplicates and missing values to ensure robust
 analysis.
+
+## Executive Summary
+Analysis of worldwide life expectancy data reveals significant disparities between
+developed and developing nations, with a strong correlation between GDP and life
+outcomes. Key findings:
+ 14.8 year gap between highest and lowest life expectancy countries
+ Countries with GDP ≥$1,500 show 9.2 years higher life expectancy
+ Developed nations average 7.4 years longer life expectancy than developing
+ones
+ Adult mortality trends show consistent decline in most regions
 
 
 ![World life expec](https://github.com/user-attachments/assets/0acee083-469e-4a1f-9a9b-9daaab376d23)
