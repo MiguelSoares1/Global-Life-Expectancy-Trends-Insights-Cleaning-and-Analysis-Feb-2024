@@ -27,5 +27,20 @@ outcomes. Key findings:
 ones
 * Adult mortality trends show consistent decline in most regions
 
-
 ![World life expec](https://github.com/user-attachments/assets/0acee083-469e-4a1f-9a9b-9daaab376d23)
+
+### Insights Deep-Dive
+### Life Expectancy Trends
+
+1. Country-Level Changes (2000-2015)
+o Maximum increase: 9.6 years
+o Minimum increase: 1.2 years
+o Average annual improvement: 0.32 years
+2. Economic Impact
+o High GDP (≥$1,500): 77.3 years average
+o Low GDP (≤$1,500): 68.1 years average
+o GDP correlation coefficient: 0.84
+3. Development Status Impact
+o Developed nations: 79.2 years
+o Developing nations: 71.8 years
+
