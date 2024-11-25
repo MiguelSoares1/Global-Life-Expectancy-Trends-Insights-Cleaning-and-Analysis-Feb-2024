@@ -29,8 +29,7 @@ ones
 
 ![World life expec](https://github.com/user-attachments/assets/0acee083-469e-4a1f-9a9b-9daaab376d23)
 
-### Insights Deep-Dive
-### Life Expectancy Trends
+### Insights Deep-Dive: Life Expectancy Trends
 
 1. Country-Level Changes (2000-2015)
 o Maximum increase: 9.6 years
