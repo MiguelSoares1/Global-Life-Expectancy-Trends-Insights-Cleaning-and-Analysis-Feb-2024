@@ -21,9 +21,9 @@ analysis.
 Analysis of worldwide life expectancy data reveals significant disparities between
 developed and developing nations, with a strong correlation between GDP and life
 outcomes. Key findings:
-* 14.8 year gap between highest and lowest life expectancy countries
-* Countries with GDP ≥$1,500 show 9.2 years higher life expectancy
-* Developed nations average 7.4 years longer life expectancy than developing
+* 52.7 year gap between highest and lowest life expectancy countries
+* Countries with GDP ≥$1,500 show 9.7 years higher life expectancy
+* Developed nations average 12.4 years longer life expectancy than developing
 ones
 * Adult mortality trends show consistent decline in most regions
 
