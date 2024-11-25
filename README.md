@@ -1,3 +1,5 @@
+# Global Life Expectancy Trends: Insights, Cleaning, and Analysis
+
 # Table of Contents
 1. [Project Background](#project-background)
 2. [Executive Summary](#executive-summary)
