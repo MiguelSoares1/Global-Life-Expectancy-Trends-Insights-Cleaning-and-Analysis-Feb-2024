@@ -1,15 +1,17 @@
-# Table of Contents
+#Global-Life-Expectancy-Trends-Insights-Cleaning-and-Analysis-Feb-2024
+
+## Table of Contents
 1. [Project Background](#project-background)
 2. [Executive Summary](#executive-summary)
 3. [Challenges and Solutions](#Challenges-and-Solutions)
 4. [Recommendations](#Recommendations)
 
-## Project Background
+### Project Background
 Analysis of global life expectancy trends across countries to understand the impact
 of economic development (GDP), health factors (BMI), and development status on
 life expectancy outcomes between 2007 - 2022.
 
-## Goals and Objectives 
+### Goals and Objectives 
 1. Identify countries with the highest and lowest life expectancies.
 2. Analyze life expectancy trends over time and by economic status (developing vs.
 developed).
@@ -17,7 +19,7 @@ developed).
 4. Handle data quality issues such as duplicates and missing values to ensure robust
 analysis.
 
-## Executive Summary
+### Executive Summary
 Analysis of worldwide life expectancy data reveals significant disparities between
 developed and developing nations, with a strong correlation between GDP and life
 outcomes. Key findings:
@@ -54,7 +56,7 @@ o Increasing trend across 15 years
 o Faster improvement in developing nations
 o Significant regional variations
 
-## Key Insights
+### Key Insights
 1. Life Expectancy Trends
 - Countries with higher GDP have significantly longer life expectancies.
 - Developing nations exhibit greater variability in life expectancy growth over 15
@@ -66,7 +68,7 @@ developing nations average 65 years.
 - Countries with Higher average BMIs tend to have higher life expectancies,
 suggesting health and nutrition disparities.
 
-## Recommendations
+### Recommendations
 1. Focus on Health Policies in Developing Nations:
 Invest in healthcare infrastructure to address disparities in life expectancy.
 2. Target Economic Growth:
@@ -75,7 +77,7 @@ economic development could improve overall health.
 3. Address Nutrition and Obesity:
 Encourage programs to manage a healthy BMI, as higher BMIs are often linked to higher life expectancy in some populations..
 
-## Challenges and Solutions
+### Challenges and Solutions
 Duplicate Records:
 * Issue: Multiple records for the same country and year.
 * Solution: Identified and removed duplicates using ROW_NUMBER().
